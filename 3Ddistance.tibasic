@@ -1,0 +1,11 @@
+Disp "(A,B,C) (D,E,F)"
+Prompt A
+Prompt B
+Prompt C
+Prompt D
+Prompt E
+Prompt F
+Sqrt((A-D)^2+(B-E)^2+(C-F)^2)-->E
+Disp "Distance ="
+Disp E
+Stop

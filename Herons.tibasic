@@ -1,0 +1,13 @@
+Disp "Heron's Formula"
+Disp "Side A"
+Prompt A
+Disp "Side B"
+Prompt B
+Disp "Side C"
+Prompt C
+A+B+C-->X
+X/2-->D
+Sqrt((D)(D-A)(D-B)(D-C))-->E
+Disp "Area=
+Disp E
+Stop
